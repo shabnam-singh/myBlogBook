@@ -1,0 +1,3 @@
+set openssl first
+
+set NODE_OPTIONS=--openssl-legacy-provider
